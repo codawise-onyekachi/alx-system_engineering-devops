@@ -1,0 +1,2 @@
+#!/bin/bash
+echo "cat word.txt |fmt | sort |uniq | pr | lpr"
